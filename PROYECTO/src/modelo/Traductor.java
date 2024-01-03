@@ -142,6 +142,6 @@ public class Traductor {
         System.out.println(significadoIngles);
         System.out.println(significadoKichwa); 
 
-        scanner.close();
+        scanner.close();2
     }
 }
